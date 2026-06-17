@@ -80,9 +80,9 @@ Features:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzemursal&show_icons=true&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzemursal&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzemursal&theme=tokyonight" />
 
 </p>
 

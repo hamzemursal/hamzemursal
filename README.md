@@ -1,35 +1,50 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Hamze Mohamed Ali</h1>
+<div align="center">
 
-<h3 align="center">
-BCA Student | MERN Stack Developer | Linux Learner | Future Software Engineer
-</h3>
+# Assalamu Alaikum 👋
+# I'm Hamze Mohamed Ali
+
+### 💻 MERN Stack Developer
+### 🎓 BCA Student @ KIIT University
+### 🕌 Building Islamic Digital Platforms
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Islamic+Platform+Builder;Linux+Learner;Cybersecurity+Enthusiast;Future+Software+Engineer" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 Bachelor of Computer Applications (BCA) Student at KIIT University, India
+- 🎓 BCA Student at KIIT University, India
+- 💻 Full Stack MERN Developer
+- 🕌 Founder & Developer of a Quran Learning Platform
+- 🌱 Currently learning Linux, Cybersecurity & System Design
+- ☁️ Working with Cloudinary, Render, Vercel & MongoDB Atlas
+- 🚀 Goal: Become a world-class Software Engineer
 
-💻 Passionate about Full Stack Web Development
+---
 
-🌱 Currently learning:
+## 🚀 Current Project
 
-- Advanced MERN Stack
-- Linux Administration
-- Cybersecurity
-- Cloud Deployment
-- System Design
+### 🕌 Quran & Tafsiir Platform
 
-🕌 Building an Islamic Learning Platform featuring:
+Features:
 
-- Tafsiirka Qur'aanka
-- Muxaadarooyin
-- Audio Lessons
-- Books Library
-- Admin Dashboard
+✔ Tafsiirka Qur'aanka
 
-🎯 Goal:
-Become an expert Software Engineer and build impactful products that benefit the Ummah.
+✔ Muxaadarooyin Audio Library
+
+✔ Islamic Books System
+
+✔ Favorites & Search
+
+✔ Admin Dashboard
+
+✔ Cloudinary Media Storage
+
+✔ MongoDB Database
+
+✔ Responsive UI
 
 ---
 
@@ -37,60 +52,74 @@ Become an expert Software Engineer and build impactful products that benefit the
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Learning
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,python,docker" />
+</p>
 
 ---
 
-## 📚 Current Projects
+## 📊 GitHub Stats
 
-### 🕌 Quran & Islamic Learning Platform
+<p align="center">
 
-Features:
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-- Tafsiir Audio & Video
-- Books Library
-- Lessons Management
-- Favorites System
-- Cloudinary Media Storage
-- Admin Dashboard
-- Contact System
-- Authentication
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
-Tech:
+</p>
 
-```text
-React + Node.js + Express + MongoDB + Cloudinary
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Complete BCA Successfully
+- ✅ Master MERN Stack
+- ✅ Learn Linux Administration
+- ✅ Learn Cybersecurity
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Launch Islamic Platform Globally
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn: Your LinkedIn
+
+🌐 Portfolio: Coming Soon
+
+---
+
+> "The best among people are those who benefit others."
+
+⭐ If you like my projects, don't forget to star them.

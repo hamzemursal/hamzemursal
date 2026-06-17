@@ -112,7 +112,7 @@ Features:
 
 ## 🌍 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: hamzemursal2@gmail.com
 
 💼 LinkedIn: Your LinkedIn
 

@@ -114,7 +114,7 @@ Features:
 
 📧 Email: hamzemursal2@gmail.com
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hamzemursal/)
 
 🌐 Portfolio: Coming Soon
 

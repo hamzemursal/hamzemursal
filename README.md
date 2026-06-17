@@ -4,7 +4,7 @@
 # I'm Hamze Mohamed Ali
 
 ### 💻 MERN Stack Developer
-### 🎓 BCA Student @ KIIT University
+### 🎓 BCA Student AT KIIT University
 ### 🕌 Building Islamic Digital Platforms
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Islamic+Platform+Builder;Linux+Learner;Cybersecurity+Enthusiast;Future+Software+Engineer" />

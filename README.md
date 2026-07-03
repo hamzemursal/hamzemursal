@@ -1,6 +1,6 @@
 <div align="center">
 
-# Assalamu Alaikum 👋
+
 # I'm Hamze Mohamed Ali
 
 ### 💻 MERN Stack Developer

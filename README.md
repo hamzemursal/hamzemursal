@@ -89,10 +89,7 @@ Passionate about building secure, scalable, and user-friendly web & mobile appli
 
 - Quran Tafsir
 - Audio Lectures
-- Islamic Books
-- Search & Favorites
-- Admin Dashboard
-- Responsive Design
+- Islamic Books app
 
 ### 🤖 AI Projects
 
@@ -123,7 +120,6 @@ Passionate about building secure, scalable, and user-friendly web & mobile appli
 - Linux Administration
 - Computer Networking
 - Cybersecurity
-- Docker
 - AWS Cloud
 - System Design
 - Artificial Intelligence

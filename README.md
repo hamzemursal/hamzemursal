@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hamze Mohamed Ali
+#  Hi, I'm Hamze Mohamed Ali
 
 ### 💻 Full Stack Developer • 📱 Mobile App Developer • 🔐 Cybersecurity Enthusiast
 
